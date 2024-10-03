@@ -1,2 +1,4 @@
 # backend-stuff-Cosonas
-This has been rather miserable
+Backend is cool !!!
+
+Uhhh so sigmas, this uses Express JS and WILL at some point in the possibly distant future use bcrypt 
